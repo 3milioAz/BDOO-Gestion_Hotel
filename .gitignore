@@ -1,0 +1,6 @@
+datos/
+*.fs
+*.fs.lock
+*.fs.tmp
+__pycache__/
+.venv/
