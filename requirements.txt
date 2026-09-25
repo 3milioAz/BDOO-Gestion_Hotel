@@ -1,0 +1,5 @@
+ZODB==6.0
+persistent==6.1
+transaction==5.0
+BTrees==6.1
+zc.lockfile==3.0.post1
